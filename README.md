@@ -19,7 +19,7 @@ pip install python-dotenv
 ```
 
 Импортируем os и load_dotenv c find_dotenv, вызываем load_dotenv.\
-О find_dotenv вконце, пока это не важно.
+Об find_dotenv вконце, пока это не важно.
 ```py
 import os
 from dotenv import load_dotenv, find_dotenv
